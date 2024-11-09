@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\Unidad 4\Crosshair\Crosshair\main.cpp(17,14): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\Unidad 4\Crosshair\Crosshair\main.cpp(17,14): warning C4244:         with
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\Unidad 4\Crosshair\Crosshair\main.cpp(17,14): warning C4244:         [
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\Unidad 4\Crosshair\Crosshair\main.cpp(17,14): warning C4244:             T=unsigned int
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\Unidad 4\Crosshair\Crosshair\main.cpp(17,14): warning C4244:         ]
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\Unidad 4\Crosshair\Crosshair\main.cpp(18,15): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\Unidad 4\Crosshair\Crosshair\main.cpp(18,15): warning C4244:         with
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\Unidad 4\Crosshair\Crosshair\main.cpp(18,15): warning C4244:         [
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\Unidad 4\Crosshair\Crosshair\main.cpp(18,15): warning C4244:             T=unsigned int
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\Unidad 4\Crosshair\Crosshair\main.cpp(18,15): warning C4244:         ]
+  Crosshair.vcxproj -> C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\Unidad 4\Crosshair\Debug\Crosshair.exe
