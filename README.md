@@ -31,5 +31,5 @@ Se genera un **enemigo aleatorio** en pantalla. El jugador debe usar la **mira**
 ## 👨‍💻 Autor
 
 **JulioCZ**  
-1° Cuatrimestre – Año 2025  
+2° Cuatrimestre – Año 2024  
 Tecnicatura en Diseño y Programación de Videojuegos
